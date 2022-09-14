@@ -2,13 +2,13 @@
 
 /**
  *
- * * main - Prints the sizeof many var types
+ * main - Prints the sizeof many var types
  *
- * *
  *
- * * Return: Always 0 (Success)
  *
- * */
+ * Return: Always 0 (Success)
+ *
+ */
 
 int main(void)
 
