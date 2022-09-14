@@ -3,14 +3,13 @@
 
 
 /**
- *
  * * main - Prints a text
  *
- * *
+ * *Description: Write a script that generates the assembly code (Intel syntax)
  *
  * * Return: Always 1 (Success)
  *
- * */
+ */
 
 int main(void)
 

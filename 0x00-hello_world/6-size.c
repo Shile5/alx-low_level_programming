@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- *
  * main - Prints the sizeof many var types
  *
- *
+ * Description: A C program that prints the size of various types on computer.
  *
  * Return: Always 0 (Success)
  *

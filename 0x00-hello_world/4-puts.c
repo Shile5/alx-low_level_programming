@@ -3,10 +3,9 @@
 
 
 /**
- *
  * main - Printing
  *
- * 
+ * Discription: Write a C program that prints
  *
  * Return: Always 0 (Successful)
  *
